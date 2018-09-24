@@ -1,0 +1,10 @@
+
+Python 3.6
+
+export FLASK_APP=index.py
+export FLASK_RUN_PORT=8080
+
+
+. venv/bin/activate
+deactivate
+
